@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { GitBranch, FileText, Zap } from "lucide-react";
-import heroIllustration from "@/assets/hero-illustration.png";
+import heroIllustration from "@/assets/spec-code-connection.png";
 
 export const Hero = () => {
   return (
