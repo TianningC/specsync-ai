@@ -32,7 +32,7 @@ export const Hero = () => {
             </h1>
             
             <p className="text-xl lg:text-2xl text-muted-foreground mb-8 max-w-2xl">
-              Turn PM specs into code. Keep design and implementation aligned at every step.
+              Turn PM specs into code. Keep design and implementation in sync at every check-in.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
