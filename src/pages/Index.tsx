@@ -4,6 +4,7 @@ import { Solution } from "@/components/Solution";
 import { HowItWorks } from "@/components/HowItWorks";
 import { Benefits } from "@/components/Benefits";
 import { AIAgent } from "@/components/AIAgent";
+import { ComingSoon } from "@/components/ComingSoon";
 import { CTA } from "@/components/CTA";
 import { Footer } from "@/components/Footer";
 
@@ -16,6 +17,7 @@ const Index = () => {
       <HowItWorks />
       <Benefits />
       <AIAgent />
+      <ComingSoon />
       <CTA />
       <Footer />
     </div>
