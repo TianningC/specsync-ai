@@ -81,6 +81,17 @@ export const HowItWorks = () => {
           </div>
         </div>
         
+        {/* Demo Screenshot Placeholder */}
+        <div className="mt-16 mb-12">
+          <div className="bg-muted/50 border-2 border-dashed border-border rounded-xl p-12 text-center">
+            <div className="w-16 h-16 mx-auto mb-4 bg-primary/10 rounded-lg flex items-center justify-center">
+              <FileText className="w-8 h-8 text-primary" />
+            </div>
+            <h3 className="text-lg font-semibold mb-2">Demo Screenshot</h3>
+            <p className="text-muted-foreground">Visual demonstration of the workflow in action</p>
+          </div>
+        </div>
+        
         <div className="mt-16 text-center">
           <div className="inline-flex items-center gap-2 bg-primary/10 rounded-full px-6 py-3">
             <CheckCircle className="w-5 h-5 text-primary" />
